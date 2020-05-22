@@ -11,7 +11,9 @@ import java.util.Scanner;
 public class myFirstJava {
 
 	/**
-	 * @param args
+	 * Created new branch branch1
+	 * The Java file will ask for name and age to be entered by the user
+	 * and will show the output after receiving input from user
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
